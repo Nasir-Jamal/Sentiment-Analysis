@@ -1,0 +1,1 @@
+artificial neural network framework to classify emotions from twitter data
